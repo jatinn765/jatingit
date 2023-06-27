@@ -5,6 +5,10 @@ klsdfl
 lsdfjlsdflsdlflkdsfldss
 klsdf
 kldsfjlksdf
+<<<<<<< HEAD
+jsdflsjdf
+sdfdsf
+sdfdsfkjldsfdsf
 jsdflsjdf
 sdfdsf
 sdfdsfkjldsfdsf
